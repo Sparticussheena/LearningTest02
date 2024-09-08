@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LearningTest02Application {
 
     public static void main(String[] args) {
-        System.out.println("My 3rd Comment");
+        System.out.println("My 4rd Comment");
         SpringApplication.run(LearningTest02Application.class, args);
     }
 
